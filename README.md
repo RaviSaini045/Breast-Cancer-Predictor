@@ -1,11 +1,9 @@
 # Breast-Cancer-Predictor
-Breast cancer tumor datasets were taken and using Supervised learning and algorithms like Logistic Regression, K-nn, naive bayes, the prediction of initial or final stage of cancer is being detected. This project is made to make life simpler as normal diagnosis takes about 10+ days to detect the tumor, where this project comes as blessing and the tumor could be detected in minutes.
+Breast cancer tumor datasets were taken and using supervised learning and algorithms like Logistic Regression, K-NN, and Naive Bayes, this project analyzes breast cancer tumor datasets to predict the initial or final stage of cancer. By leveraging this approach, the detection time is drastically reduced from the typical 10+ days in regular diagnosis to just minutes, offering a significant advantage in timely detection.
 
-This is the dataset I chose from kaggle website: (https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction?resource=download )
+The dataset selected from Kaggle (https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction?resource=download) focuses on identifying breast cancer, where abnormal cell growth leads to tumor formation in the breast. These tumors can either be benign (non-cancerous) or malignant (cancerous).
 
-About Dataset: Health is an essential aspect of everyone’s life. Breast cancer is found in the body of male or females when the cells in the breast begin to grow out of control. These cells usually form a tumor and can be felt as a lump or could be seen on an x-ray. Cancer can be distinguished as benign, or either can be malignant (cancer).
-
-About ML model used: Logistic Regression is a commonly used machine learning model for binary classification problems where the output variable has two possible values, such as "yes" or "no", "true" or "false", or "1" or "0"(here in the project we have assumed ‘B’ for Benign and ‘M’ for Malignant, labelled under diagnosis). In the context of breast cancer prediction, logistic regression can be used to predict whether a breast tumor is Benign (non-cancerous/tumor confined to a particular tissue or organ) or Malignant (cancerous/where tumor cells can move from one tissue or organ to other making it more lethal and dangerous) based on a set of input features.
+The machine learning model employed, Logistic Regression, specializes in binary classification problems. In the context of breast cancer prediction, it distinguishes between benign ('B') and malignant ('M') tumors. This model uses various input features to predict whether a breast tumor falls under the category of benign (confined to a specific tissue) or malignant (capable of spreading to other tissues, posing greater risks).
 
 # Feasibility and Applicability: 
 # Usability: 
